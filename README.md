@@ -1,3 +1,14 @@
+# 💫 Hi 👋, I'm Shivam
+**A passionate Data Analyst from India**
+
+Email Me 👉 ✉️ **analyzer441@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🌱 **I’m currently learning:** Power BI
+- 👯 **I’m looking to collaborate on:** Data Analysis Projects
+- 💬 **Ask me about:** Data Analysis
+- 📫 **How to reach me:** analyzer441@gmail.com
+- 😄 **Pronouns:** Shivam
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:analyzer441@gmail.com) 
