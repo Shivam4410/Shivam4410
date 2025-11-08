@@ -23,7 +23,7 @@ Email Me 👉 ✉️ **analyzer441@gmail.com** For Collaboration/Project or Anyt
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Shivam4410&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
