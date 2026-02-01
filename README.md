@@ -20,9 +20,6 @@ Email Me 👉 ✉️ **analyzer441@gmail.com** For Collaboration/Project or Anyt
 ![](https://github-readme-stats.vercel.app/api?username=Shivam4410&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Shivam4410&theme=dark&hide_border=false)<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Shivam4410&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
